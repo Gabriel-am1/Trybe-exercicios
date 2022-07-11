@@ -1,0 +1,5 @@
+O que eu vou aprender na trybe:
+-Fundamentos do desenvolvimento web
+-Front-End
+-Back-End
+-Ciência dos dados
